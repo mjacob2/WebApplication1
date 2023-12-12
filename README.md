@@ -85,3 +85,17 @@ Push to the branch (git push origin feature/AmazingFeature).
 Open a pull request.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+Feedback Using AI (ChatGPT)
+Was it easy to complete the task using AI?
+ NO
+How long did task take you to complete? x minutes/hours
+few hours
+Was the code ready to run after generation?
+No
+What did you have to change to make it usable?
+prepare database
+Which challenges did you face during completion of the task?
+app project is multi files. Response is only one window.
+Which specific prompts you learned as a good practice to complete the task?
+to give more input data at the beginning
